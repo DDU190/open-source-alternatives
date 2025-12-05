@@ -235,6 +235,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Lago](https://github.com/getlago/lago)|[getlago.com](https://www.getlago.com/)|<a href=https://github.com/getlago/lago><img src="https://img.shields.io/github/stars/getlago/lago?style=flat" width=100/></a>
+[Meteroid](https://github.com/meteroid-oss/meteroid)|[meteroid.com](https://www.meteroid.com/)|<a href=https://github.com/meteroid-oss/meteroid><img src="https://img.shields.io/github/stars/meteroid-oss/meteroid?style=flat" width=100/></a>
 
 ### File uploader:
 |Company|Website|GitHub stars|
